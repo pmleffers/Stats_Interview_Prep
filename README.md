@@ -1,2 +1,2 @@
 # Stats_Interview_Prep
-[Probabilities](https://nbviewer.jupyter.org/github/pmleffers/Stats_Interview_Prep/blob/master/Preparing%20for%20Stats%20Interview%20Questions-%20Conditional%20Probabilities.ipynb)
+[Probability and Sampling Distributions](https://nbviewer.jupyter.org/github/pmleffers/Stats_Interview_Prep/blob/master/Preparing%20for%20Stats%20Interview%20Questions-%20Probability%20and%20Sampling%20Distributions.ipynb)
