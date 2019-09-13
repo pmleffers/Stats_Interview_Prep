@@ -4,3 +4,5 @@
 [Moments and Data Cleaning](https://nbviewer.jupyter.org/github/pmleffers/Stats_Interview_Prep/blob/master/Preparing%20for%20Stats%20Interview%20Questions-%20Moments%20and%20Data%20Cleaning.ipynb)
 
 [Hypothesis Testing](https://nbviewer.jupyter.org/github/pmleffers/Stats_Interview_Prep/blob/master/Preparing%20for%20Stats%20Interview%20Questions-%20Hypothesis%20Testing.ipynb)
+
+[Regression and Modeling](https://nbviewer.jupyter.org/github/pmleffers/Stats_Interview_Prep/blob/master/Preparing%20for%20Stats%20Interview%20Questions-%20Regression%20and%20Modeling.ipynb)
