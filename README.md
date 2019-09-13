@@ -17,4 +17,6 @@ Common Stats Tables
 
 [T-Table](https://nbviewer.jupyter.org/github/pmleffers/Stats_Interview_Prep/blob/master/T-Table.ipynb)
 
-[ChiSquare-Table](https://nbviewer.jupyter.org/github/pmleffers/Stats_Interview_Prep/blob/master/ChiSquare-Table.ipynb)
+[X-Table](https://nbviewer.jupyter.org/github/pmleffers/Stats_Interview_Prep/blob/master/ChiSquare-Table.ipynb)
+
+[F-Table](https://nbviewer.jupyter.org/github/pmleffers/Stats_Interview_Prep/blob/master/F-Table.ipynb)
