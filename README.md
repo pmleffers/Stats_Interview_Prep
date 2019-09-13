@@ -10,3 +10,8 @@
 - [Regression and Modeling](https://nbviewer.jupyter.org/github/pmleffers/Stats_Interview_Prep/blob/master/Preparing%20for%20Stats%20Interview%20Questions-%20Regression%20and%20Modeling.ipynb)
 
 - [Model Evaluation](https://nbviewer.jupyter.org/github/pmleffers/Stats_Interview_Prep/blob/master/Preparing%20for%20Stats%20Interview%20Questions-%20Evaluation.ipynb)
+
+Common Stats Tables
+[Z Table](https://nbviewer.jupyter.org/github/pmleffers/Stats_Interview_Prep/blob/master/Z-Tables.ipynb)
+
+[ChiSquare Table](https://nbviewer.jupyter.org/github/pmleffers/Stats_Interview_Prep/blob/master/Z-Tables.ipynb)
