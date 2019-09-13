@@ -13,6 +13,8 @@
 
 Common Stats Tables
 
-[Z Table](https://nbviewer.jupyter.org/github/pmleffers/Stats_Interview_Prep/blob/master/Z-Tables.ipynb)
+[Z-Table](https://nbviewer.jupyter.org/github/pmleffers/Stats_Interview_Prep/blob/master/Z-Tables.ipynb)
 
-[ChiSquare Table](https://nbviewer.jupyter.org/github/pmleffers/Stats_Interview_Prep/blob/master/Z-Tables.ipynb)
+[T-Table](https://nbviewer.jupyter.org/github/pmleffers/Stats_Interview_Prep/blob/master/Z-Tables.ipynb)
+
+[ChiSquare-Table](https://nbviewer.jupyter.org/github/pmleffers/Stats_Interview_Prep/blob/master/ChiSquare-Table.ipynb)
